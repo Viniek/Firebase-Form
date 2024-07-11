@@ -1,0 +1,29 @@
+.signInForm{
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+/* align-items: left; */
+    
+}
+.form{
+    background-color: rgb(3, 3, 73);
+    padding:1rem;
+    color:orangered;
+}
+
+.form input{
+    padding: 1.5rem;
+    width: 40rem;
+    color:black;
+    margin-top: 3rem;
+    border-bottom: 3px rgb(224, 59, 86)solid;
+    border-left: 3px rgb(224, 59, 86)solid;
+    border-right:  3px rgb(224, 59, 86)solid;
+}
+button{
+    width:20rem;
+    margin-left: 14rem;
+    margin-top: 2rem;
+    border:20px;
+    
+}
